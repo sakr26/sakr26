@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40" alt="Pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau" /> <a href="https://seaborn.pydata.org/" target="_blank">
