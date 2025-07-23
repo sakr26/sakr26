@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 
 
 <!-- Seaborn -->
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="30" alt="Seaborn" />
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="30" alt="Seaborn" />
+</a>
 
