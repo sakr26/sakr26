@@ -1,4 +1,4 @@
-## Welcome to my Page 👋
+<h1 align="center">Welcome to my page 👋</h1>
 
 <!--
 **sakr26/sakr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
