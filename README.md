@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dein-profilname/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    <br/>
+    Feel free to connect
+  </a>
+</p>
+
+
+
 
 <h3>🛠️ Languages and Tools</h3>
 
