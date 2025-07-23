@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="40" height="40" alt="dbt" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metabase/metabase-original.svg" width="40" height="40" alt="Metabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel VBA" title="Excel VBA" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bpmn/bpmn-original.svg" width="40" height="40" alt="BPMN" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftvisio/microsoftvisio-original.svg" width="40" height="40" alt="Visio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="40" height="40" alt="AutoCAD" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40" height="40" alt="SAP" />
