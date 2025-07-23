@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Visual Studio Code
 
 ---
-
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
