@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hallo, ich bin [Dein Name] 👋
+
+## 🛠️ Languages and Tools
+
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL, PostgreSQL)
+- Excel (inkl. VBA)
+- Git & GitHub
+- Power BI
+- Visual Studio Code
+
+---
