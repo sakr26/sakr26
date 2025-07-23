@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>Feel free to connect</h4>
+<h3>Feel free to connect</h3>
 
 <a href="https://www.linkedin.com/in/dein-profilname/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
